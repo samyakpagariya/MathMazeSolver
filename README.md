@@ -1,4 +1,4 @@
-# 🎯 Grid Path Solver
+# 🎯 Math Maze Path Solver
 
 A React-based puzzle solver that finds all valid paths through an arithmetic grid from top-left to bottom-right, evaluating each path's expression against a target value. Supports grids from 3×3 up to 8×8.
 
